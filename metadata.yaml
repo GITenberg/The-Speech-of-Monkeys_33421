@@ -1,0 +1,34 @@
+_repo: The-Speech-of-Monkeys_33421
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garner, R. L. (Richard Lynch)
+    alias: Garner, Richard Lynch
+    birthdate: 1848
+    deathdate: 1920
+    gutenberg_agent_id: '36398'
+    url: http://www.gutenberg.org/2009/agents/36398
+    wikipedia: http://de.wikipedia.org/wiki/Richard_Lynch_Garner
+description: Text intended as a record of the the author's work and his progress,
+  in the hope that others will pursue like investigations. Part I presents a few of
+  the author's experiments and serve to show the scope of his work. Part II presents
+  the author's definition of the word "speech" and the deductions which he has made
+  from his experiments.
+gutenberg_issued: '2010-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33421'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sound production by animals'
+- !lcc 'QL'
+- !lcsh 'Speech'
+- !lcsh 'Monkeys'
+title: The Speech of Monkeys
+url: http://www.gutenberg.org/ebooks/33421
